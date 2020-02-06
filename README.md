@@ -1,7 +1,9 @@
 # python_tutorial
-This is a tutorial for the Google Developer Student Club at Harrisburg University
+This is a tutorial for the Google Developer Student Club at Harrisburg University of Science and Technology
 
-The part 1 covers the following topics: 
+
+
+The part 1 covers the following topics (Also can be seen at https://docs.google.com/spreadsheets/d/1G295CNx4N6TaNU9CAyR4JxpJY1uyRNjbH5r-DhI1mdU/edit?usp=sharing): 
 
 Syntax		
 	Comments	
